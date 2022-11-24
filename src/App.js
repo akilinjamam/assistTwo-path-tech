@@ -1,6 +1,5 @@
 
 import './App.css';
-import Avater from './Avater';
 import Aveters from './Aveters';
 
 function App() {
